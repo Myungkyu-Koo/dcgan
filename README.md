@@ -20,7 +20,7 @@ DCGAN이란, generator network가 deep convolutional layer로 구성되어 있�
 2. 실험목적
 이러이러한걸 해보려고 했다.
 
-3. 실험결과
+3. 실험결과   
 | Learning rate | FID score |   
 | --- | --- |   
 | 123 | 123 |   
