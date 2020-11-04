@@ -14,4 +14,14 @@ Discriminator는 특정 image를 입력받아 진위여부를 가려낸다.
 DCGAN이란, generator network가 deep convolutional layer로 구성되어 있는 모델이다.
 
 ---
+1. 코드개요
 본 코드는 KAIST AI대학원의 AI504 수업에서 제공된 skeleton code를 기반으로 작성되었다.
+
+2. 실험목적
+이러이러한걸 해보려고 했다.
+
+3. 실험결과
+| Learning rate | FID score |
+| --- | --- |
+| 123 | 123 |
+| 456 | **456** |
