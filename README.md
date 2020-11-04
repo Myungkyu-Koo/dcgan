@@ -6,6 +6,9 @@ Generator는 random한 noise를 생성해내는 vector z를 입력받아 fake im
 Discriminator는 특정 image를 입력받아 진위여부를 가려낸다.   
 즉, discriminator는   
 
+![Training generative adversarial nets](https://user-images.githubusercontent.com/61346536/98138992-055ac900-1f07-11eb-8e4f-258b1535d9b7.png)
+
+
 하지만 minimax 최적화 문제를 해결하는 방식의 GAN은 학습 시 oscillation이 발생하여    
 모델이 쉽게 불안정해진다는 문제점을 가지고 있다.   
 이를 해결한 모델이 DCGAN이다.   
